@@ -1,0 +1,9 @@
+[package]
+name = "vossel"
+version = "0.4.0"
+authors = ["Deathaclops <deathaclops@gmail.com>"]
+description = "A simple library for streamlining Arc<RwLock<T>>"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.40.0", features = ["sync"] }
