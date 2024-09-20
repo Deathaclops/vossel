@@ -1,3 +1,3 @@
 # Vossel
-A simple library for simplifying Arc&lt;RwLock&lt;T&gt;&gt;
+A (very) simple library for streamlining Arc&lt;RwLock&lt;T&gt;&gt;
 
